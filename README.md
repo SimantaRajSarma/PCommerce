@@ -1,6 +1,6 @@
 # PCommerce - XCoders Coding Club
 [<img align="left" alt="Discord" width="32px" style="position: relative; top: 7px;"
- src="https://raw.githubusercontent.com/NNTin/discord-logo/master/src/assets/animateddiscord.svg"/>](https://discord.gg/QFKX9JEK)[<h2>Discord</h2>](https://discord.gg/QFKX9JEK)
+ src="https://raw.githubusercontent.com/NNTin/discord-logo/master/src/assets/animateddiscord.svg"/>](https://discord.gg/QFKX9JEK)
 
 
 ## Overview
@@ -10,15 +10,15 @@ Welcome to PCommerce, the XCoders Coding Club's E-Commerce platform. **PCommerce
 
 _Before you begin, make sure you have the following:_
 
-> Basic understanding of HTML, CSS.
-
-> Comfortable with Git and GitHub.
-
-> Ensure you have installed **XAMPP**. If not, download it here. 
+>> Basic understanding of HTML, CSS.
+>>
+>> Comfortable with Git and GitHub.
+>>
+>> Ensure you have installed **XAMPP**. If not, download it here.
 <a href="https://sourceforge.net/projects/xampp/files/latest/download" style="background-color: white; padding: 4px 9px; color: black; text-decoration: none; border-radius: 7px; color: blue;">Download</a>
 
 
-> Familiarity with PHP basics.
+>> Familiarity with PHP basics.
 >If you have no experience with PHP, don't worry, you'll learn through this project.
 
 # Installation
@@ -26,11 +26,11 @@ _Follow these steps to install the repository on your local system:_
 
 ### Clone the repository:
 
-> `git clone https://github.com/SimantaRajSarma/PCommerce.git`
+  `git clone https://github.com/SimantaRajSarma/PCommerce.git`
 
 ### Navigate to the project directory:
 
-> `cd PCommerce`
+  `cd PCommerce`
 
 ### Place files in XAMPP's htdocs directory:
 
@@ -38,11 +38,11 @@ _Follow these steps to install the repository on your local system:_
 
 ## Start XAMPP:
 
-> Start the XAMPP control panel and ensure that the Apache server is running.
+>> Start the XAMPP control panel and ensure that the Apache server is running.
 
 ## Access PCommerce:
 
-> Open your web browser and go to http://localhost/PCommerce.
+>> Open your web browser and go to http://localhost/PCommerce.
 
 Now, you're ready to explore and contribute to PCommerce. Happy coding!
 
@@ -71,28 +71,28 @@ Now, you're ready to explore and contribute to PCommerce. Happy coding!
 
 ## XCoders Coding Club welcomes contributions from all members. To contribute to PCommerce, follow these steps:
 
-> Fork the repository on GitHub.
-
-> Create a new branch for your feature or bug fix.
-
-> Make your changes and commit them with descriptive commit messages.
-
-> Push your changes to your fork and submit a pull request.
+>> Fork the repository on GitHub.
+>>
+>> Create a new branch for your feature or bug fix.
+>>
+>> Make your changes and commit them with descriptive commit messages.
+>>
+>> Push your changes to your fork and submit a pull request.
 
 
 ## Directory Structure
 
-> /css: Contains stylesheets.
-
-> /js: JavaScript files.
-
-> /img: Image assets.
-
-> /includes: PHP files for code organization.
-
-> /docs: Documentation files.
-
-> /assets: Other assets like fonts, 3rd party Library's.
+>> /css: Contains stylesheets.
+>>
+>> /js: JavaScript files.
+>>
+>> /img: Image assets.
+>>
+>> /includes: PHP files for code organization.
+>>
+>> /docs: Documentation files.
+>>
+>> /assets: Other assets like fonts, 3rd party Library's.
 
 
 
