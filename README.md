@@ -90,6 +90,8 @@ Now, you're ready to explore and contribute to PCommerce. Happy coding!
 >>
 >> /img: Image assets.
 >>
+>> /app: main product
+>>
 >> /includes: PHP files for code organization.
 >>
 >> /docs: Documentation files.
