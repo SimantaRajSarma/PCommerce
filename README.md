@@ -49,7 +49,7 @@ _Follow these steps to install the repository on your local system:_
 Now, you're ready to explore and contribute to PCommerce. Happy coding!
 
 
-# Pages:
+# Pages we will build :
 
 1. Homepage
 2. Product Pages
@@ -80,6 +80,8 @@ Now, you're ready to explore and contribute to PCommerce. Happy coding!
 >> Make your changes and commit them with descriptive commit messages.
 >>
 >> Push your changes to your fork and submit a pull request.
+>>
+>> After you've successfully added a feature or solved an issue.. Go to the `contributers.md` file and follow the instructions to add your name in the contributers list.
 
 
 ## Directory Structure
