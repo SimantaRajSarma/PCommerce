@@ -7,6 +7,17 @@
 ## Overview
 Welcome to PCommerce, the XCoders Coding Club's E-Commerce platform. **PCommerce** is designed to provide a straightforward and user-friendly experience for club members to access and purchase club merchandise. This README.md file serves as a guide to help you understand the platform, set it up, and contribute to its development.
 
+# Frontend Pages: 
+you can go to `/img` folder to see all images..
+
+## Home Section
+![Home](https://github.com/SimantaRajSarma/PCommerce/blob/main/img/home.png?raw=true)
+
+## Products List Page:
+![Products](https://github.com/SimantaRajSarma/PCommerce/blob/main/img/profucts.png?raw=true)
+
+## Single Product Page:
+![product](https://github.com/SimantaRajSarma/PCommerce/blob/main/img/product.png?raw=true)
 ## We will build this project using Agile Development
 ![SDLC](https://images.yourstory.com/production/document_image/mystoryimage/k9l4rt69-SDLC-system-model.gif?w=1152&fm=auto&ar=2:1&mode=crop&crop=faces)
 ## Prerequisites
