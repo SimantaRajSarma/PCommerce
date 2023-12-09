@@ -2,6 +2,7 @@
 [<img align="left" alt="Discord" width="32px" style="position: relative; top: 7px;"
  src="https://raw.githubusercontent.com/NNTin/discord-logo/master/src/assets/animateddiscord.svg"/>](https://discord.gg/QFKX9JEK)
 
+# We will clone the [Bonkers Corner's Website](https://www.bonkerscorner.com/) 
 
 ## Overview
 Welcome to PCommerce, the XCoders Coding Club's E-Commerce platform. **PCommerce** is designed to provide a straightforward and user-friendly experience for club members to access and purchase club merchandise. This README.md file serves as a guide to help you understand the platform, set it up, and contribute to its development.
@@ -47,27 +48,6 @@ _Follow these steps to install the repository on your local system:_
 >> Open your web browser and go to http://localhost/PCommerce.
 
 Now, you're ready to explore and contribute to PCommerce. Happy coding!
-
-
-# Pages we will build :
-
-1. Homepage
-2. Product Pages
-3. Category Pages
-4. Shopping Cart
-5. Checkout Page
-6. Order Confirmation
-7. User Account
-8. About Us
-9. Contact Us
-10. Privacy Policy and Terms of Service
-11. Search Results Page
-12. 404 Page
-13. FAQs
-14. Returns and Refunds Policy
-15. Blog/News Page (not that Important)
-16. Sitemap (post-production page)
-
 
 # Contributing
 
